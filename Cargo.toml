@@ -1,0 +1,8 @@
+[package]
+name = "merge_sort-2019-04-15"
+version = "0.1.0"
+authors = ["bbdare"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6"
