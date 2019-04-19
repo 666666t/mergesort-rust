@@ -6,3 +6,5 @@ and is a standard executable rather than a library.
 
 As currently implemented, the program generates a vector of 10,000,000 sequential elements, and shuffles them.
 
+Note: Current project has nightly feature(test) enabled for benchmarking, program will not compile unless
+user installs the nightly toolchain and runs `rustup default nightly`.
